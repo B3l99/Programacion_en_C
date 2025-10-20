@@ -4,18 +4,31 @@ hay que intentar que las palabras que ponga parezcan codigo
 osea usar else if etc, voy a aponer un ejemplo de otro problema
 
 Pick up phone book
+
 2  Open to middle of phone book
+
 3  Look at page
+
 4  If person is on page
+
 5      Call person
+
 6  Else if person is earlier in book
+
 7      Open to middle of left half of book
+
 8      Go back to line 3
+
 9  Else if person is later in book
+
 10     Open to middle of right half of book
+
 11     Go back to line 3
+
 12 Else
+
 13     Quit
+
 
 ## 1) Suma de múltiplos (FÁCIL)
 
